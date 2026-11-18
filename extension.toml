@@ -1,0 +1,7 @@
+id = "cellium"
+name = "Cellium Theme"
+version = "0.1.0"
+schema_version = 1
+authors = ["xiaojinao <652100800@qq.com>"]
+description = "Cellium brand theme - synced with Cellium Agent TUI/WebUI colors"
+repository = "https://github.com/REPLACE_ME/cellium-theme"
